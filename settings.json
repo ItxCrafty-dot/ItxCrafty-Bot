@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "HijhadaMC",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "aandilsmp.aternos.me",
-    "port": 16310,
+    "ip": "DragonsmpS8.aternos.me",
+    "port": 55596,
     "version": "",
     "try-creative": false
   },
